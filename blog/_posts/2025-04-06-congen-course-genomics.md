@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching at the WIMANET Introductory Course on Genomics
+title: Teaching at the BIODIV PhD Course on Conservation Genetics
 author: Ricardo Jorge Lopes
 date: 2025-04-06
 ---
