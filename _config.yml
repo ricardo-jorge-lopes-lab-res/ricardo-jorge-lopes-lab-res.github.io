@@ -1,6 +1,6 @@
-name: Bedford Lab Research
-description: Science updates on evolution, epidemiology and immunology from the Bedford lab at the Fred Hutch
-url: http://bedford.io
+name: Ricardo Jorge Lopes Lab Research
+description: Science updates from the Ricardo Jorge Lopes lab at the FCUL
+url: http://ricardo-jorge-lopes-lab-res.github.io
 
 markdown: kramdown
 permalink: /:categories/:title/
