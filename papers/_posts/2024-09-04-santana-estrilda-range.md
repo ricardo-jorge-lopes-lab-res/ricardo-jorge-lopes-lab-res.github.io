@@ -1,10 +1,10 @@
 ---
 layout: paper
 title: Predicting the expansion of invasive species, how much data do we need?
-image: /images/papers/article_2024_santana_estrilda.png
-authors: Santana J, Sillero N, Ribeiro J, Capinha C, Lopes RJ, Reino L
+image: /images/papers/article-2024-santana-estrilda-range.png
+authors: Santana J, Sillero N, Ribeiro J, Capinha C, Lopes RJ, Reino L.
 year: 2024
-ref: Santana et al. (2024) Neobiota.
+ref: Santana (2024) Neobiota
 journal: "NeoBiota 95: 109-132"
 pdf: 
 doi: 10.3897/neobiota.95.122335
