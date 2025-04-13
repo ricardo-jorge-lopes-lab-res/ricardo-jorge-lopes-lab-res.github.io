@@ -1,11 +1,11 @@
 ---
 layout: paper
 title: A dataset of acoustic measurements from soundscapes collected worldwide during the COVID-19 pandemic
-image: /images/papers/article_2024_challeat_silent_cities.svg
+image: /images/papers/article-2024-challeat-silent-cities.png
 authors: Challéat S, Farrugia N, Froidevaux JSP, Gasc A,  Pajusco N, Silent Cities project consortium.
 year: 2024
-ref: Challéat et al. (2024) Scientific Data.
-journal: #Scientific Data 11, 928"
+ref: Challéat (2024) Scientific Data
+journal: "Scientific Data 11: 928"
 pdf: 
 doi: 10.1038/s41597-024-03611-7
 github: 

@@ -1,12 +1,12 @@
 ---
 layout: paper
 title: A molecular mechanism for bright color variation in parrots
-image: /images/papers/article_2024_arbore_parrots.jpg
+image: /images/papers/article-2024-arbore-parrots-coloration.png
 authors: Arbore R, Barbosa S, Brejcha J, Ogawa Y, Liu Y, Nicolaï MPJ, Pereira P, Sabatino SJ, Cloutier A, Poon ESK, Marques CI, Andrade P, Debruyn G, Afonso S, Afonso R, Roy SG, Abdu U, Lopes RJ, Mojzeš P, Marík P, Sin SYW, White MA, Araújo PM, Corbo JC, Carneiro M. 
 year: 2024
-ref: Arbore et al. 2024. Science.
+ref: Arbore (2024) Science
 journal: "Science 386(6721): eadp7710."
-pdf: /pdfs/papers/2025 Gutierrez-Lopez GLOBAL ECOLOGY CONSERVATION tarentola sympatry.pdf
+pdf:
 doi: 10.1126/science.adp7710
 github: 
 ---
