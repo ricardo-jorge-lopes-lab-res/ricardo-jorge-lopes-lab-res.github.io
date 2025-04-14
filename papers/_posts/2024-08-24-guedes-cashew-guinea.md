@@ -2,7 +2,7 @@
 layout: paper
 title: At the tipping point, Can biodiversity and rural livelihoods endure uncontrolled cashew expansion in West Africa?
 image: /images/papers/article-2024-guedes-cashew-guinea.png
-authors: Guedes P, Palmeirim AF, Monteiro F, Catarino L, Palma L, Temudo MP, Henriques M, Beja P, **Lopes RJ**, Ladle RJ, Powell LL.
+authors: Guedes P, Palmeirim AF, Monteiro F, Catarino L, Palma L, Temudo MP, Henriques M, Beja P, Lopes RJ, Ladle RJ, Powell LL.
 year: 2024
 ref: Guedes (2024) Biotropica
 journal: "Biotropica 56: e13374"
