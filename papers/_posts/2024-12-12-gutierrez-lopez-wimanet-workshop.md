@@ -4,7 +4,7 @@ title: The Wildlife Malaria Research network (WIMANET) Meeting report on the 1st
 image: /images/papers/article_2024_gutierrez_wimanet.png
 authors: Gutiérrez-López R, Ferraguti M, Bodawatta K, Chagas CRF, Chakarov N, Duc M, García-Longoria L, Lopes RJ, Martínez-de la Puente J,  Renner S,  Santiago-Alarcón D, Sehgal R, Stankovic D, Marzal A, Dunn JC. 
 year: 2024
-ref: Gutiérrez-López et al. 2024. Int J Paras Parasites Wildlife.
+ref: Gutiérrez-López (2024) International Journal of Parasitology ":" Parasites & Wildlife.
 journal: "International Journal of Parasitology: Parasites & Wildlife: 24: 100989."
 pdf: /pdfs/papers/2025 Gutierrez-Lopez GLOBAL ECOLOGY CONSERVATION tarentola sympatry.pdf
 doi: 10.1016/j.ijppaw.2024.100989

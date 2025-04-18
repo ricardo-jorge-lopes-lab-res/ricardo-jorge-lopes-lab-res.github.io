@@ -4,7 +4,7 @@ title: Table for two - Diet composition differences of allopatric and sympatric 
 image: /images/papers/article_2025_pinho_tarentolas.png
 authors: Pinho C, Santos B, Mata VA, Lopes RJ, Romeiras MM, Lopes EP, Alves PC, Emerson B, Vasconcelos R. 
 year: 2025
-ref: Pinho et al. 2025. Glob Ecol Cons.
+ref: Pinho (2025) Global Ecology and Conservation.
 journal: "Global Ecology and Conservation: 57: e03412."
 pdf: /pdfs/papers/2025 Pinho GLOBAL ECOLOGY CONSERVATION tarentola sympatry.pdf
 doi: 10.1016/j.gecco.2025.e03412
