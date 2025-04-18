@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "Table for two - Diet composition differences of allopatric and sympatric populations of island geckos"
+title: "Table for two: Diet composition differences of allopatric and sympatric populations of island geckos"
 image: /images/papers/article_2025_pinho_tarentolas.png
 authors: Pinho C, Santos B, Mata VA, Lopes RJ, Romeiras MM, Lopes EP, Alves PC, Emerson B, Vasconcelos R. 
 year: 2025
