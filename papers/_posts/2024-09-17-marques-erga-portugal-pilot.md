@@ -1,0 +1,15 @@
+---
+layout: paper
+title: Building a Portuguese coalition for biodiversity genomics
+image: /images/papers/article-2024-marques-erga-portugal-pilot.png
+authors: Marques JP, Alves PC, Amorim IR, Lopes RJ, Moura M, Myers E, Sim-sim M, Sousa-Santos C, Alves MJ, Borges PAV, Brown T, Carneiro M, Carrapato C, Ceríaco LMP, Ciofi C, da Silva LP, Diedericks G, Diroma MA, Farelo L, Formenti G, Gil F, Grilo M, Iannucci A, Leitão HG, Máguas C, Mc Cartney AM, Mendes SL, Moreno JM, Morselli M, Mouton A, Natali C, Pereira F, Rego RMC, Resendes R, Roxo G, Svardal H, Trindade H, Vicente S, Winkler S, Alvarenga M, Amaral AJ, Antunes A, Campos PF, Canário AVM, Castilho R, Castro LFC, Crottini A, Cunha MV, Espregueira Themudo G, Esteves PJ, Faria R, Rodríguez Fernandes C, Ledoux J-B, Louro B, Magalhaes S, Paulo OS, Pearson G, Pimenta J, Pina-Martins F, Santos TL, Serrão E, Melo-Ferreira J, Sousa VC.
+year: 2024
+ref: Marques (2024) npj biodiversity
+journal: "npj biodiversity 3, 27"
+pdf: 
+doi: 10.1038/s44185-024-00061-7
+github: 
+---
+
+# Abstract
+The diverse physiography of the Portuguese land and marine territory, spanning from continental Europe to the Atlantic archipelagos, has made it an important repository of biodiversity throughout the Pleistocene glacial cycles, leading to a remarkable diversity of species and ecosystems. This rich biodiversity is under threat from anthropogenic drivers, such as climate change, invasive species, land use changes, overexploitation, or pathogen (re)emergence. The inventory, characterisation, and study of biodiversity at inter- and intra-specific levels using genomics is crucial to promote its preservation and recovery by informing biodiversity conservation policies, management measures, and research. The participation of researchers from Portuguese institutions in the European Reference Genome Atlas (ERGA) initiative and its pilot effort to generate reference genomes for European biodiversity has reinforced the establishment of Biogenome Portugal. This nascent institutional network will connect the national community of researchers in genomics. Here, we describe the Portuguese contribution to ERGA’s pilot effort, which will generate high-quality reference genomes of six species from Portugal that are endemic, iconic, and/or endangered and include plants, insects, and vertebrates (fish, birds, and mammals) from mainland Portugal or the Azores islands. In addition, we outline the objectives of Biogenome Portugal, which aims to (i) promote scientific collaboration, (ii) contribute to advanced training, (iii) stimulate the participation of institutions and researchers based in Portugal in international biodiversity genomics initiatives, and (iv) contribute to the transfer of knowledge to stakeholders and engaging the public to preserve biodiversity. This initiative will strengthen biodiversity genomics research in Portugal and fuel the genomic inventory of Portuguese eukaryotic species. Such efforts will be critical to the conservation of the country’s rich biodiversity and will contribute to ERGA’s goal of generating reference genomes for European species.
