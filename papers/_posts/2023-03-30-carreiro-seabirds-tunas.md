@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: DNA metabarcoding uncovers prey diversity overlap among tunas and seabirds of Eastern Tropical Atlantic, implications for an ecosystem-based management
-image: /images/papers/article-2023-carreiro-seabirds-tuna.png
+image: /images/papers/article-2023-carreiro-seabirds-tunas.png
 authors: Carreiro AR, Ramos JA, Mata VA, Almeida NM, Paiva VH, Lopes RJ.
 year: 2023
 ref: Carreiro (2023) Marine Environmental Research

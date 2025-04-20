@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: The Wildlife Malaria Research network (WIMANET) Meeting report on the 1st WIMANET workshop
-image: /images/papers/article_2024_gutierrez_wimanet.png
+image: /images/papers/article-2024-gutierrez-lopez-wimanet-workshop.png
 authors: Gutiérrez-López R, Ferraguti M, Bodawatta K, Chagas CRF, Chakarov N, Duc M, García-Longoria L, Lopes RJ, Martínez-de la Puente J,  Renner S,  Santiago-Alarcón D, Sehgal R, Stankovic D, Marzal A, Dunn JC. 
 year: 2024
 ref: "Gutiérrez-López (2024) International Journal of Parasitology: Parasites & Wildlife"
