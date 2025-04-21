@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Amalia de la Torre
-position: PhD student (co-supervision)
+position: PhD student (co-supervised)
 image: /images/team/amalia-de-la-torre.jpg
 alumni: false
 ---
