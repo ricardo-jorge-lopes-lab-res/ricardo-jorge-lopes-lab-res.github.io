@@ -1,9 +1,9 @@
 ---
 layout: member
-title: Catarina Pinho
+title: Cristina Marques
 position: MSc student (co-supervised)
 github: 
-image: /images/team/cristina-vieira.jpg
+image: /images/team/cristiana-marques.jpg
 alumni: true
 ---
 
