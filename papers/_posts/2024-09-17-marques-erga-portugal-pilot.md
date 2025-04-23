@@ -6,7 +6,7 @@ authors: Marques JP, Alves PC, Amorim IR, Lopes RJ, Moura M, Myers E, Sim-sim M,
 year: 2024
 ref: Marques (2024) npj biodiversity
 journal: "npj biodiversity 3, 27"
-pdf: 
+pdf: /pdfs/papers/2024-marques-npj-biodiversity-erga-pt.pdf
 doi: 10.1038/s44185-024-00061-7
 github: 
 ---

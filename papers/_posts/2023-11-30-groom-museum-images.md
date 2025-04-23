@@ -6,7 +6,7 @@ authors: Groom Q, Dillen M, Addink W, Ariño AHH, Bölling C, Bonnet P, Cecchi L
 year: 2023
 ref: Groom (2023) Biodiversity Data Journal
 journal: "Biodiversity Data Journal 11: e109439"
-pdf: 
+pdf: /pdfs/papers/2023-groom-biodiversity-data-journal-digital-collections.pdf
 doi: 10.3897/BDJ.11.e109439
 github: 
 ---

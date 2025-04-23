@@ -6,7 +6,7 @@ authors: Pinho C, Santos B, Mata VA, Lopes RJ, Romeiras MM, Lopes EP, Alves PC, 
 year: 2025
 ref: Pinho (2025) Global Ecology and Conservation
 journal: "Global Ecology and Conservation: 57: e03412."
-pdf: 
+pdf: /pdfs/papers/2025-pinho-global-ecology-conservation-tarentola-sympatry.pdf
 doi: 10.1016/j.gecco.2025.e03412
 github: 
 ---

@@ -6,7 +6,7 @@ authors: Carreiro AR, Ramos JA, Mata VA, Almeida NM, Paiva VH, Lopes RJ.
 year: 2023
 ref: Carreiro (2023) Marine Environmental Research
 journal: "Marine Environmental Research 187: 105955"
-pdf: 
+pdf: /pdfs/papers/2023-03-30-carreiro-seabirds-tunas.pdf
 doi: 10.1016/j.marenvres.2023.105955
 github: 
 ---

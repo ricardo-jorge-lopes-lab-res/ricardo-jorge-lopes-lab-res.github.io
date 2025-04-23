@@ -6,7 +6,7 @@ authors: Carreiro AR, Ramos JA, Mata VA, Almeida NM, Paiva VH, Lopes RJ.
 year: 2023
 ref: Carreiro (2023) Food Control
 journal: "Food Control 145: 109473"
-pdf: 
+pdf: /pdfs/papers/2023-carreiro-food-control-tuna-id.pdf
 doi: 10.1016/j.foodcont.2022.109473
 github: 
 ---

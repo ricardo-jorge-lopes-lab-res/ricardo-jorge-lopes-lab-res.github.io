@@ -6,7 +6,7 @@ authors: Gutiérrez-López R, Ferraguti M, Bodawatta K, Chagas CRF, Chakarov N, 
 year: 2024
 ref: "Gutiérrez-López (2024) International Journal of Parasitology: Parasites & Wildlife"
 journal: "International Journal of Parasitology: Parasites & Wildlife: 24: 100989."
-pdf: /pdfs/papers/2025 Gutierrez-Lopez GLOBAL ECOLOGY CONSERVATION tarentola sympatry.pdf
+pdf: /pdfs/papers/2024-gutierrez-lopez-wimanet-workshop.pdf
 doi: 10.1016/j.ijppaw.2024.100989
 github: 
 ---
