@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Cristina Marques
+title: Cristiana Marques
 position: MSc student (co-supervised)
 github: 
 image: /images/team/cristiana-marques.jpg
