@@ -2,7 +2,6 @@
 layout: member
 title: Ricardo Jorge Lopes
 position: Assistant Professor
-handle: trvrb
 twitter: Ricardo_J_Lopes
 github: ricardo-jorge-lopes
 scholar: GI40eYQAAAAJ&hl
