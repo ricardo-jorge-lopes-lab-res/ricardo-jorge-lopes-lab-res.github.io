@@ -4,7 +4,7 @@ title: Low MSP-1 haplotype diversity in the West Palearctic population of the av
 image: /images/papers/article-2021-hellgren-msp-1-diversity.png
 authors: Hellgren O, Kelbskopf V, Ellis VA, Lopes RJ, Mata VA, Aghayan SA, Drovetski SV.
 year: 2021
-ref: Hellgren (2022) Malaria Journal
+ref: Hellgren (2021) Malaria Journal
 journal: "Malaria Journal 20: 265"
 pdf: /pdfs/papers/2021-hellgren-msp-1-diversity.pdf
 doi: 10.1186/s12936-021-03799-8
