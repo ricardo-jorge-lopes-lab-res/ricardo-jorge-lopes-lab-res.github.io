@@ -2,7 +2,7 @@
 layout: paper
 title: Diet study of geckos reveals the first records of pseudoscorpions on Desertas Islands (Cabo Verde)
 image: /images/papers/article-2022-santos-raso-pseudoscorpion.png
-authors: Santos B, Pinho CJ, Santos B, Pinho CJ, Šťáhlavský F, Mata VA, Lopes RJ, Vasconcelos R .
+authors: Santos B, Pinho CJ, Santos B, Pinho CJ, Šťáhlavský F, Mata VA, Lopes RJ, Vasconcelos R.
 year: 2022
 ref: Santos (2022) Journal of Arachnology
 journal: "Journal of Arachnology 50: 39-42"
