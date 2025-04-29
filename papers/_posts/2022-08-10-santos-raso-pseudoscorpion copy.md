@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: The role of natural science collections in the biomonitoring of environmental contaminants in apex predators in support of the EU’s zero pollution ambitionDiet study of geckos reveals the first records of pseudoscorpions on Desertas Islands (Cabo Verde)
+title: Diet study of geckos reveals the first records of pseudoscorpions on Desertas Islands (Cabo Verde)
 image: /images/papers/article-2022-santos-raso-pseudoscorpion.png
 authors: Santos B, Pinho CJ, Santos B, Pinho CJ, Šťáhlavský F, Mata VA, Lopes RJ, Vasconcelos R .
 year: 2022
