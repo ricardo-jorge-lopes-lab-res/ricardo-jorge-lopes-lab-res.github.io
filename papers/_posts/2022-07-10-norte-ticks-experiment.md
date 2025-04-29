@@ -1,13 +1,13 @@
 ---
 layout: paper
-title: The role of natural science collections in the biomonitoring of environmental contaminants in apex predators in support of the EU’s zero pollution ambition
-image: /images/papers/article-2022-movalli-apex-predators.png
-authors: Movalli P, Koschorreck J, Treu G, Slobodnik J, Alygizakis N, Androulakakis A, Badry A, Baltag E, Barbagli F, Bauer K, Biesmeijer K, Borgo E, Cincinelli A, Claßen D, Danielsson S, Dekker RWRJ, Dietz R, Eens M, Espín S, Eulaers I, Frahnert S, Fuiz TI, García-Fernández AJ, Fuchs J Gkotsis G, Glowacka N, Gómez-Ramírez P, Grotti M, Hosner PA, Johansson U, Jaspers VJB, Koureas D, Krone O, Kubin E, Lefevre C, Leivits m, LoBrutto S, Lopes RJ, Lourenço R, Lymberakis P, Madslien K, Martellini T, Mateo R, Nika M, Osborn D, Oswald P, Pauwels O, Pereira MG, Pezzo F, Sánchez-Virosta P, Sarajlić N, Shore RF, Soler F, Sonne C, Thomaidis N, Töpfer T, Väinölä R, van den Brink N, Vrezec A, Walker L, Weigl S, Wernham C, Woog F, Zorrilla I, Duke G.
+title: "Effects of stress exposure in captivity on physiology and infection in avian hosts: no evidence of increased *Borrelia burgdorferi* s.l. infectivity to vector ticks"
+image: /images/papers/article-2022-norte-ticks-experiment.png
+authors: Norte AC, Araújo PM, Augusto L, Guímaro H, Santos S, Lopes RJ, Núncio MS, Ramos JA, Lopes de Carvalho I.
 year: 2022
-ref: Movalli (2022) Environmental Sciences Europe
-journal: "Environmental Sciences Europe 34: 88"
-pdf: /pdfs/papers/2022-movalli-apex-predators.pdf
-doi: 10.1186/s12302-022-00670-8
+ref: Norte (2022) Microbial Ecology
+journal: "Microbial Ecology 83(1): 202-215"
+pdf: /pdfs/papers/2022-norte-ticks-experiment.pdf
+doi: 10.1007/s00248-021-01738-3
 github: 
 ---
 

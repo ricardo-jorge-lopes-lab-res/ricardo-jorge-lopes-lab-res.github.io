@@ -1,15 +1,23 @@
 ---
 layout: paper
-title: The role of natural science collections in the biomonitoring of environmental contaminants in apex predators in support of the EU’s zero pollution ambition
-image: /images/papers/article-2022-movalli-apex-predators.png
-authors: Movalli P, Koschorreck J, Treu G, Slobodnik J, Alygizakis N, Androulakakis A, Badry A, Baltag E, Barbagli F, Bauer K, Biesmeijer K, Borgo E, Cincinelli A, Claßen D, Danielsson S, Dekker RWRJ, Dietz R, Eens M, Espín S, Eulaers I, Frahnert S, Fuiz TI, García-Fernández AJ, Fuchs J Gkotsis G, Glowacka N, Gómez-Ramírez P, Grotti M, Hosner PA, Johansson U, Jaspers VJB, Koureas D, Krone O, Kubin E, Lefevre C, Leivits m, LoBrutto S, Lopes RJ, Lourenço R, Lymberakis P, Madslien K, Martellini T, Mateo R, Nika M, Osborn D, Oswald P, Pauwels O, Pereira MG, Pezzo F, Sánchez-Virosta P, Sarajlić N, Shore RF, Soler F, Sonne C, Thomaidis N, Töpfer T, Väinölä R, van den Brink N, Vrezec A, Walker L, Weigl S, Wernham C, Woog F, Zorrilla I, Duke G.
-year: 2022
-ref: Movalli (2022) Environmental Sciences Europe
-journal: "Environmental Sciences Europe 34: 88"
-pdf: /pdfs/papers/2022-movalli-apex-predators.pdf
-doi: 10.1186/s12302-022-00670-8
+title: The Hummingbird Collection of the Natural History and Science Museum of the University of Porto (MHNC-UP), Portugal
+image: /images/papers/article-2021-lopes-hummingbirds-collection.png
+authors: Lopes RJ, Faria PMV, Gomes D, Freitas B, Málinger J.
+year: 2021
+ref: Lopes (2021) Biodiversity Data Journal
+journal: "Biodiversity Data Journal 9: e59913"
+pdf: 
+doi: 10.3897/BDJ.9.e59913
 github: 
 ---
 
 # Abstract
-The chemical industry is the leading sector in the EU in terms of added value. However, contaminants pose a major threat and significant costs to the environment and human health. While EU legislation and international conventions aim to reduce this threat, regulators struggle to assess and manage chemical risks, given the vast number of substances involved and the lack of data on exposure and hazards. The European Green Deal sets a ‘zero pollution ambition for a toxic free environment’ by 2050 and the EU Chemicals Strategy calls for increased monitoring of chemicals in the environment. Monitoring of contaminants in biota can, inter alia: provide regulators with early warning of bioaccumulation problems with chemicals of emerging concern; trigger risk assessment of persistent, bioaccumulative and toxic substances; enable risk assessment of chemical mixtures in biota; enable risk assessment of mixtures; and enable assessment of the effectiveness of risk management measures and of chemicals regulations overall. A number of these purposes are to be addressed under the recently launched European Partnership for Risk Assessment of Chemicals (PARC). Apex predators are of particular value to biomonitoring. Securing sufficient data at European scale implies large-scale, long-term monitoring and a steady supply of large numbers of fresh apex predator tissue samples from across Europe. Natural science collections are very well-placed to supply these. Pan-European monitoring requires effective coordination among field organisations, collections and analytical laboratories for the flow of required specimens, processing and storage of specimens and tissue samples, contaminant analyses delivering pan-European data sets, and provision of specimen and population contextual data. Collections are well-placed to coordinate this. The COST Action European Raptor Biomonitoring Facility provides a well-developed model showing how this can work, integrating a European Raptor Biomonitoring Scheme, Specimen Bank and Sampling Programme. Simultaneously, the EU-funded LIFE APEX has demonstrated a range of regulatory applications using cutting-edge analytical techniques. PARC plans to make best use of such sampling and biomonitoring programmes. Collections are poised to play a critical role in supporting PARC objectives and thereby contribute to delivery of the EU’s zero-pollution ambition.
+
+## Background
+
+The Hummingbird (Family Trochilidae) Collection of the Natural History and Science Museum of the University of Porto (MHNC-UP) is one of the oldest collections of this family harboured in European museums. Almost 2,000 specimens, that encompass most of the taxonomic diversity of this family, were collected in the late 19th Century. The collection is relevant due its antiquity and because all specimens were bought from the same provider, mainly as mounted specimens, for a Portuguese private collection of Neotropical fauna. In the early 20th Century, it was donated to the Museum that is now the MHNC-UP.
+
+## New information
+
+The information about the majority of these specimens is now available for consultation on the GBIF platform after curation of all specimens and digital cleaning of the associated metadata. In the process, hundreds of non-catalogued specimens were found and taxonomic and spatial information was updated for many of the specimens.
+
