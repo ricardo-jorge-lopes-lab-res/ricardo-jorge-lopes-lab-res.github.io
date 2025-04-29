@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: The role of natural science collections in the biomonitoring of environmental contaminants in apex predators in support of the EU’s zero pollution ambitionSexual segregation in the foraging distribution, behaviour, and trophic niche of the endemic Boyd’s shearwater (Puffinus lherminieri boydi)
+title: Sexual segregation in the foraging distribution, behaviour, and trophic niche of the endemic Boyd’s shearwater (Puffinus lherminieri boydi)
 image: /images/papers/article-2022-santos-puffinus-sex-segregation.png
 authors: Santos I, Ramos JA, Ceia FR, Rodrigues I, Almeida N, Antunes S, Carreiro AR, Matos DM, Lopes RJ, Geraldes P, Paiva VH.
 year: 2022
