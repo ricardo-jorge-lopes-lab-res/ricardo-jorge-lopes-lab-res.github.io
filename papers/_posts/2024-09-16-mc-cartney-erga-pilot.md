@@ -6,7 +6,7 @@ authors: Mc Cartney AM, Formenti G, Mouton A, De Panis D, Marins LS, Leitao HG, 
 year: 2024
 ref: Mc Cartney (2024) npj biodiversity
 journal: "npj biodiversity 3, 28"
-pdf: 
+pdf: /pdfs/papers/2024-mc-cartney-npj-biodiversity-erga-pilot.pdf
 doi: 10.1038/s44185-024-00054-6
 github: 
 ---
