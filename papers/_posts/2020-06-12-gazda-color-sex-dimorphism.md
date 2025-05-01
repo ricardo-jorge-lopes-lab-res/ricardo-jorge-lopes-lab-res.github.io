@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: A Genetic Mechanism for Sexual Dichromatism in Birds
-image: /images/papers/article-2020-gazda-color-sex-dimorphism.png
+image: /images/papers/article-scientific.png
 authors: Gazda MA, Araújo PM, Lopes RJ, Toomey MB, Andrade P, Afonso S, Marques C, Nunes L, Pereira P, Trigo S, Hill GE, Corbo JC, Carneiro M.
 year: 2020
 ref: Gazda (2020) Science

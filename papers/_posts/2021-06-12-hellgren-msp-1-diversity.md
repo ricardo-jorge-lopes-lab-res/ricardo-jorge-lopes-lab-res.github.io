@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Low MSP-1 haplotype diversity in the West Palearctic population of the avian malaria parasite Plasmodium relictum
-image: /images/papers/article-2021-hellgren-msp-1-diversity.png
+image: /images/papers/article-scientific.png
 authors: Hellgren O, Kelbskopf V, Ellis VA, Lopes RJ, Mata VA, Aghayan SA, Drovetski SV.
 year: 2021
 ref: Hellgren (2021) Malaria Journal

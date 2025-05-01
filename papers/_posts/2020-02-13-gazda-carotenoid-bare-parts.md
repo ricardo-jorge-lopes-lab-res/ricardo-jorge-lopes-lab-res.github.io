@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Genetic Basis of De Novo Appearance of Carotenoid Ornamentation in Bare Parts of Canaries
-image: /images/papers/article-2020-gazda-carotenoid-bare-parts.png
+image: /images/papers/article-scientific.png
 authors: Gazda MA, Toomey MB, Araújo PM, Lopes RJ, Afonso S, Myers CA, Serres K, Kiser PD, Hill GE, Corbo JC, Carneiro M.
 year: 2020
 ref: Gazda (2020) Molecular Biology and Evolution

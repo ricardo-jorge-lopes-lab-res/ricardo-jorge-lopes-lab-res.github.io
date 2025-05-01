@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: Molecular parallelisms between pigmentation in the avian iris and the integument of ectothermic vertebrates
-image: /images/papers/article-2021-andrade-pigeon-iris.png
+image: /images/papers/article-scientific.png
 authors: Andrade P, Gazda MA, Araújo PM, Afonso S, Rasmussen JA, Marques CI, Lopes RJ, Gilbert MTP, Carneiro M.
 year: 2021
 ref: Andrade (2021) PLOS Genetics

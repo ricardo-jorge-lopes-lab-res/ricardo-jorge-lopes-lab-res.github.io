@@ -1,12 +1,12 @@
 ---
 layout: paper
 title: The Hummingbird Collection of the Natural History and Science Museum of the University of Porto (MHNC-UP), Portugal
-image: /images/papers/article-2021-lopes-hummingbirds-collection.png
+image: /images/papers/article-scientific.png
 authors: Lopes RJ, Faria PMV, Gomes D, Freitas B, Málinger J.
 year: 2021
 ref: Lopes (2021) Biodiversity Data Journal
 journal: "Biodiversity Data Journal 9: e59913"
-pdf: 
+pdf: /pdfs/papers/2021-lopes-hummingbird-collection.pdf
 doi: 10.3897/BDJ.9.e59913
 github: 
 ---

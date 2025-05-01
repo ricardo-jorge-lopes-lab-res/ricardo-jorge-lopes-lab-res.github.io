@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: High-resolution multi-marker DNA metabarcoding reveals sexual dietary differentiation in a bird with minor dimorphism
-image: /images/papers/article-2020-silva-leucura-diet-sex.png
+image: /images/papers/article-scientific.png
 authors: da Silva LP, Mata VA, Lopes PB, Lopes RJ, Beja P.
 year: 2020
 ref: da Silva (2020) Ecology and Evolution

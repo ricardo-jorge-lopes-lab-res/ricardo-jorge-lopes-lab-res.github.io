@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: The role of natural science collections in the biomonitoring of environmental contaminants in apex predators in support of the EU’s zero pollution ambition
-image: /images/papers/article-2022-movalli-apex-predators.png
+image: /images/papers/article-scientific.png
 authors: Movalli P, Koschorreck J, Treu G, Slobodnik J, Alygizakis N, Androulakakis A, Badry A, Baltag E, Barbagli F, Bauer K, Biesmeijer K, Borgo E, Cincinelli A, Claßen D, Danielsson S, Dekker RWRJ, Dietz R, Eens M, Espín S, Eulaers I, Frahnert S, Fuiz TI, García-Fernández AJ, Fuchs J Gkotsis G, Glowacka N, Gómez-Ramírez P, Grotti M, Hosner PA, Johansson U, Jaspers VJB, Koureas D, Krone O, Kubin E, Lefevre C, Leivits m, LoBrutto S, Lopes RJ, Lourenço R, Lymberakis P, Madslien K, Martellini T, Mateo R, Nika M, Osborn D, Oswald P, Pauwels O, Pereira MG, Pezzo F, Sánchez-Virosta P, Sarajlić N, Shore RF, Soler F, Sonne C, Thomaidis N, Töpfer T, Väinölä R, van den Brink N, Vrezec A, Walker L, Weigl S, Wernham C, Woog F, Zorrilla I, Duke G.
 year: 2022
 ref: Movalli (2022) Environmental Sciences Europe
