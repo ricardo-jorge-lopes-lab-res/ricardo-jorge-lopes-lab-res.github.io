@@ -10,7 +10,7 @@ Carla is a PhD student on Veterinary Medicine from the University of Agricultura
 These images will be used to test the machine learning approaches that are being developed under the WIMANET COST Action objectives.
 
 <br>
-![](/images/blog/carla-culda.jpeg)
+![](/images/blog/2025-03-05-carla-culda.jpeg)
 <br>
 **We were glad to host Carla Culda during this short stay, where she enjoyed some of the Portuguese culture and helped us advancing methodologies on avian malaria curation**
 
