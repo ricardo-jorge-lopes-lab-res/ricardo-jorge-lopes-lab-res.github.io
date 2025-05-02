@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Effects of stress exposure in captivity on physiology and infection in avian hosts: no evidence of increased Borrelia burgdorferi s.l. infectivity to vector ticks"
-image: /images/papers/article-scientific.png
+image: /images/papers/article-2022-norte-ticks-experiment.png
 authors: Norte AC, Araújo PM, Augusto L, Guímaro H, Santos S, Lopes RJ, Núncio MS, Ramos JA, Lopes de Carvalho I.
 year: 2022
 ref: Norte (2022) Microbial Ecology
