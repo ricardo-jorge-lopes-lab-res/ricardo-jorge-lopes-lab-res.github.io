@@ -9,7 +9,7 @@ It was a joy to organize and lecture this new edition of the BIODIV Advanced Cou
 
 It was a challenge, since it is the first edition at his new home, [MUHNAC](https://www.museus.ulisboa.pt/museu-nacional-de-historia-natural-e-da-ciencia), the National Museum of Natural History and Science of the University of Lisbon.
 
-It was also great to interact with the team of taxidermists of MUHNAC, [Pedro Andrade](https://www.museus.ulisboa.pt/pessoa/pedro-andrade) and Ana Campos, that shared their knowledge and experience on preparing vertebrate specimens. This will be complemented by lectures of several invited researchers (presential & online).
+It was also great to interact with the team of taxidermists of MUHNAC, [Pedro Andrade](https://www.museus.ulisboa.pt/pessoa/pedro-andrade) and Ana Campos, that shared their knowledge and experience on preparing vertebrate specimens.
 
 
 <br>
