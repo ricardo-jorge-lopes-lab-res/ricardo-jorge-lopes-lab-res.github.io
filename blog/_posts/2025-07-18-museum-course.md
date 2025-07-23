@@ -15,4 +15,31 @@ It was also great to interact with the team of taxidermists of MUHNAC, [Pedro An
 <br>
 ![](/images/blog/2025-07-18-museum-course-01.jpg)
 <br>
-**Diogo, his supervisors, and the jury, all beaming with joy after an outstanding MSc viva, where Diogo earned the maximum grade for his thesis**
+**The students and teachers, posing at the iconic palm tree pathway at MUHNAC**
+
+<br>
+![](/images/blog/2025-07-18-museum-course-02.jpg)
+<br>
+**The sub-Director, Judite Alves, introducing the MUHNAC to the students**
+
+<br>
+![](/images/blog/2025-07-18-museum-course-03.jpg)
+<br>
+**Working out how to retrieve genomic material from mammal bones**
+
+<br>
+![](/images/blog/2025-07-18-museum-course-04.jpg)
+<br>
+**The taxidermy lab as busy as it gets**
+
+<br>
+![](/images/blog/2025-07-18-museum-course-05.jpg)
+<br>
+**Visiting the museum reserves, with the help of the resident curators**
+
+<br>
+![](/images/blog/2025-07-18-museum-course-06.jpg)
+<br>
+**The birds and mammals that were prepared during the course**
+
+
