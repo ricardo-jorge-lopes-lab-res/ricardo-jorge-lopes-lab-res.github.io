@@ -15,4 +15,4 @@ It was also great to interact with the team of taxidermists of MUHNAC, [Pedro An
 <br>
 ![](/images/blog/2025-07-18-museum-course-01.jpg)
 <br>
-****
+**Diogo, his supervisors, and the jury, all beaming with joy after an outstanding MSc viva, where Diogo earned the maximum grade for his thesis**
