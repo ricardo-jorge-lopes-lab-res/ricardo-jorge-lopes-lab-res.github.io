@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "ERGA-BGE reference genome of the Azores Bullfinch - Pyrrhula murina Godman, 1866: an IUCN Vulnerable Species endemic to a single island in the Azores Archipelago (Portugal)"
-image: /images/papers/article-scientific.png
+image: /images/papers/article-2025-lopes-pyrrhula-genome.png
 authors: Lopes R, Böhne A, Marcussen T, Oomen RA, Struck TH, Aguilera L, Gut M, Ferreira FC, Cruz F, Gómez-Garrido J, Alioto TS, Monteiro R.
 year: 2025
 ref: Lopes (2025) Open Research Europe
