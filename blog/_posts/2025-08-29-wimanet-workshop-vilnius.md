@@ -5,7 +5,7 @@ author: Ricardo Jorge Lopes
 date: 2025-08-29
 ---
 
-It was a joy to attend the 2026 [“WIMANET"](https://wimanet-science.github.io/web/) Workshop in Vilnius (Lithuania) and witness during four days how networking can provide so many opportunities for advancing our knowledge in Haemosporidians. 
+It was a joy to attend the 2026 [WIMANET](https://wimanet-science.github.io/web/) Workshop in Vilnius (Lithuania) and witness during four days how networking can provide so many opportunities for advancing our knowledge in Haemosporidians. 
 
 Also glad to co-organize with Luz García-Longoria (University of Extremadura, Badajoz, Spain) the WG1 (Genomics) session, where we discussed past and future training opportunities, the impact of short term missions and developments on genomics of haemosporidians.
 
