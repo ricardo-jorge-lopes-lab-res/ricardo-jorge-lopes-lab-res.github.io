@@ -5,7 +5,7 @@ author: Ricardo Jorge Lopes
 date: 2025-09-26
 ---
 
-In an amazing atmosphere, MUHNA hosted again another European Researchers’ Night. The museum staff and curators joined the many researchers that were present, wiling to share their knowledge and research with the public.
+In an amazing atmosphere, MUHNAC hosted again another European Researchers’ Night. The museum staff and curators joined the many researchers that were present, wiling to share their knowledge and research with the public.
 For me, it was a joy to help, to interact with the public, and for co-touring the visit to the reserve for the lucky ones that registered soon enough.
 
 <br>
