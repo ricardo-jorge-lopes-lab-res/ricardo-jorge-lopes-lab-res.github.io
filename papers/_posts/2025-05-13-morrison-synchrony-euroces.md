@@ -7,7 +7,7 @@ year: 2025
 ref: Morrisson (2025) Ecology Letters
 journal: "Ecology Letters 28: e70105"
 pdf: /pdfs/papers/2025-morrison-ecology-letters-synchrony-euroces.pdf
-doi: 10.1111/1749-4877.12983
+doi: 10.1111/ele.70105
 github: 
 ---
 
