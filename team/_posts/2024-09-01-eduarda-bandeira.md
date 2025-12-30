@@ -4,7 +4,7 @@ title: Eduarda Bandeira
 position: BSc student
 github: 
 image: /images/team/eduarda-bandeira.jpeg
-alumni: false
+alumni: true
 ---
 
 My name is Eduarda Bandeira, and I am a Biology BSc student at the University of Porto, Portugal.
