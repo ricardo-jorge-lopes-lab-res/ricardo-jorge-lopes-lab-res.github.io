@@ -2,7 +2,7 @@
 layout: post
 title: Invited Talk at the II Rewilding Symposia
 author: Ricardo Jorge Lopes
-date: 2025-11-27
+date: 2025-11-03
 ---
 
 It was with great pleasure that I accepted the invitation to talk in the largest national symposium on the theme of rewilding in Portugal.
