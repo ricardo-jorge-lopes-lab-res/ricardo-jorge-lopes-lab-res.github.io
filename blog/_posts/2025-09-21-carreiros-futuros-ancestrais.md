@@ -9,6 +9,9 @@ date: 2025-09-21
 <br>
 ![](/images/blog/2025-09-21-carreiros-futuros-ancestrais-01.jpg)
 <br>
+
+<br>
 ![](/images/blog/2025-09-21-carreiros-futuros-ancestrais-02.jpg)
 <br>
+
 **Some of the moments on the trip.**
