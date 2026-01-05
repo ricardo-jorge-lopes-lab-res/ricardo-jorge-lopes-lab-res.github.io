@@ -11,16 +11,22 @@ The [11th Frontiers in E3](https://www.ce3c.pt/agenda/frontiers-in-e3/shifting-t
 ![](/images/blog/2025-10-10-ce3c-meeting-01.jpg)
 <br>
 
+**Gathering CE3C members in one island, at the middle of the ocean. Fantastic talks and new ideas of partnerships.**
+
 <br>
 ![](/images/blog/2025-10-10-ce3c-meeting-02.jpg)
 <br>
+
+**It was hard to condense all the research that we have done since 2005 in the Azores Islands.**
 
 <br>
 ![](/images/blog/2025-10-10-ce3c-meeting-03.jpg)
 <br>
 
+**Nadito presented his plans for the next months of fieldwork.**
+
 <br>
 ![](/images/blog/2025-10-10-ce3c-meeting-04.jpg)
 <br>
 
-**Gathering CE3C members in one island, at the middle of the ocean. Fantastic talks and new ideas of partnerships.**
+**The excursion was really lucky with the weather!**
