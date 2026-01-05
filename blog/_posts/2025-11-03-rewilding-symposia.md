@@ -5,7 +5,7 @@ author: Ricardo Jorge Lopes
 date: 2025-11-03
 ---
 
-It was with great pleasure that I accepted the invitation to talk in the largest national symposium on the theme of rewilding in Portugal.
+It was with great pleasure that I accepted the invitation to talk in the [2nd National Rewilding Symposium](https://rewilding-portugal.com/2nd-symposium).
 I talked in a block about "Success stories in the Iberian Peninsula”, along talks on the Iberian Lynx *Lynx pardinus* and the Osprey *Pandion haliaetus*,
 about one of my earliest projects, the reintroduction of the Purple Swamphen *Porphyrio Porphyrio* at the centre of Portugal, that allowed to expand considerably the probability of survival of this species in Portugal.
 
