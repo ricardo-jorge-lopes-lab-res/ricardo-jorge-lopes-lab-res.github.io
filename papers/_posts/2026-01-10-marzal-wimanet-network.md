@@ -3,7 +3,7 @@ layout: paper
 title: "WIMANET: The Power of a Network in Wildlife Malaria Research"
 image: /images/papers/article-2026-marzal-wimanet-network.png
 authors: Marzal A, Bodawatta K, Chagas CRF, Chakarov N, Duc M, Emmenegger T, Ferraguti M, García-Longoria L, Gutiérrez-López R, Lopes RJ, Martínez-De La Puente J, Renner S, Santiago-Alarcón D, Sehgal RNM, Stanković D, Dunn JC.
-year: 2025
+year: 2026
 ref: Marzal (2026) Integrative Zoology
 journal: "Integrative Zoology 21: 11-16."
 pdf: /pdfs/papers/2026-marzal-integrative-zoology-wimanet-network.pdf
