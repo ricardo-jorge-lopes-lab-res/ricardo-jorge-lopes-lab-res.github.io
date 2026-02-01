@@ -1,11 +1,11 @@
 ---
 layout: paper
-title: "Canary domestication as a model for genomics research. In: Cardoso G, Lopes RJ, Mota PG (eds) Canary: Biology, Conservation and Cultural Significance"
+title: Canary domestication as a model for genomics research
 image: /images/papers/article-2024-lopes-canary-genomics-book.png
 authors: Lopes RJ, Carneiro, M.
 year: 2024
 ref: Lopes (2024) Academic Press 
-journal: Academic Press, London, UK
+journal: "In: Cardoso G, Lopes RJ, Mota PG (eds) Canary: Biology, Conservation and Cultural SignificanceAcademic Press, London, UK"
 pdf: 
 doi:
 github: 
