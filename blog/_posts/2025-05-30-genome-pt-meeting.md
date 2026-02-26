@@ -11,4 +11,5 @@ Me and [José Melo-Ferreira](https://www.cibio.up.pt/en/people/details/jose-melo
 <br>
 ![](/images/blog/2025-05-30-genome-pt-meeting.jpg)
 <br>
-** GenomePT members on a sunny day, ideal to talk about new ideas of partnerships.**
+
+**GenomePT members on a sunny day, ideal to talk about new ideas of partnerships.**
