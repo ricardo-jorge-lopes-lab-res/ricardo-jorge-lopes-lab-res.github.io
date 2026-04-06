@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IWC at the Mondego Estuary 
+title: IWC 60 years celebration 
 author: Ricardo Jorge Lopes
 date: 2026-01-22
 ---
