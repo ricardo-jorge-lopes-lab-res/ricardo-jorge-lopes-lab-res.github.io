@@ -2,7 +2,7 @@
 layout: post
 title: IWC at the Mondego Estuary 
 author: Ricardo Jorge Lopes
-date: 2025-01-22
+date: 2026-01-22
 ---
 
 Again, another year counting waterbirds for the International Waterbird Census (IWC), a special year that celebrated [60 years of census worldwide](https://www.wetlands.org/iwc60/). This year was rather difficult, due to the storms that went through Portugal all January. But, with the help of the really accurate weather models, we did manage to find some windows of opportunity to count not only the Mondego Estuary, but also Cávado and Ave Estuaries. You can see some of the stories of the volunteers in this [mini-portal](https://iwc.wetlands.org/postcards).
