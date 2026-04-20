@@ -5,9 +5,9 @@ image: /images/papers/article-2026-leitao-island-bird-plumage.png
 authors: Leitão AV, Moya CDA, Lopes RJ, Ponti R, Covas R, Doutrelant.
 year: 2026
 ref: Leitão (2026) Journal of Evolutionary Biology
-journal: "Journal of Evolutionary Biology *in press*."
+journal: "Journal of Evolutionary Biology voag026."
 pdf: 
-doi:
+doi: doi.org/10.1093/jeb/voag026
 github: 
 ---
 
