@@ -7,7 +7,7 @@ year: 2026
 ref: Simbula (2026) Agriculture, Ecosystems and Environment
 journal: "Agriculture, Ecosystems and Environment 411: 110621."
 pdf: /pdfs/papers/2026-simbula-agriculture-ecosystems-environment-lizards-vineyards.pdf
-doi: doi.org/10.1016/j.agee.2026.110621
+doi: 10.1016/j.agee.2026.110621
 github: 
 ---
 
