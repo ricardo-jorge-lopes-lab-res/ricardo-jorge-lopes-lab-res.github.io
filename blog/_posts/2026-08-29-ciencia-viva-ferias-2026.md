@@ -7,7 +7,7 @@ date: 2026-08-31
 
 🌿 Estuarine organisms – from algae to birds 🐦🦀
 
-On 30 August, I led again a field trip to the Ave River Estuary, as part of the Ciência Viva programme for Summer 2026, a science awareness program aimed to the general public.
+On 30 August, I led again a field trip to the Ave River Estuary, in collaboration with the [Vila do Conde Centro Ciência Viva](https://viladoconde.cienciaviva.pt), as part of the Ciência Viva programme for Summer 2026, a science awareness program aimed to the general public.
 
 In this field trip, that I started in 2001 in Mondego River Estuary, more than just learning about biodiversity, the activity provides an opportunity to reflect on the importance of protecting estuaries and to understand the signals these ecosystems give us about the impact of human activities on nature.
 
