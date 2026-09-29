@@ -9,7 +9,7 @@ The [4th Symposium of the GenomePT - National Research Infrastructure for Genome
 Me and [José Melo-Ferreira](https://www.cibio.up.pt/en/people/details/jose-melo-ferreira) talked about the "Biogenome Portugal the emerging Portuguese node of the European Reference Genome Atlas (ERGA)”. It was a fantastic opportunity to create bonds among GenomePT researchers, promoting the production of reference genomes of Portuguese Biodiversity.
 
 <br>
-![](/images/blog/2025-05-30-genome-pt-meeting.jpg)
+![](/images/blog/2025-05-30-genome-pt-meeting-2025.jpg)
 <br>
 
 **GenomePT members on a sunny day, ideal to talk about new ideas of partnerships.**

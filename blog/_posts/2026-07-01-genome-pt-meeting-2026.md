@@ -9,9 +9,9 @@ The [5th Symposium of the GenomePT - National Research Infrastructure for Genome
 I was invited to talk about Museomics and Conservation, and where I also promoted bonds with PRISC, the National Research Infrastructure for Biological Collections.
 
 <br>
-![](/images/blog/2026-07-01-genomept-01.jpg)
+![](/images/blog/2026-07-01-genomept-2026-01.jpg)
 <br>
-![](/images/blog/2026-07-01-genomept-02.jpg)
+![](/images/blog/2026-07-01-genomept-2026-02.jpg)
 <br>
 
 **GenomePT Symposium gathered a large group of people working on genomics, from human to trace DNA.**
