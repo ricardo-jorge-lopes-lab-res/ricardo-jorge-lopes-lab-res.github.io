@@ -10,4 +10,5 @@ Olimpia is a  PhD student at the Department of Genetics, Eötvös Loránd Univer
 <br>
 ![](/images/blog/2026-06-25-erasmus-olimpia-horvath.jpg)
 <br>
+
 **We were glad to host Olimpia Horvath during her stay, where she enjoyed delving into museomics and our efforts to conserve the Azores Bullfinch.**
