@@ -7,6 +7,5 @@ image: /images/team/eduarda-bandeira.jpeg
 alumni: true
 ---
 
-My name is Eduarda Bandeira, and I am a Biology BSc student at the University of Porto, Portugal.
 
-I am focused on the mobilization of data from museums, working at the skin collection of the Museum of Natural History and Science of the University of Porto.
+Eduarda did her Biology BSc thesis at the University of Porto, Portugal. She worked on the mobilization of data from museums, working at the skin collection of the Museum of Natural History and Science of the University of Porto.
