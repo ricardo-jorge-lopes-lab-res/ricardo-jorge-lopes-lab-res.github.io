@@ -3,7 +3,7 @@ layout: member
 title: Joana Correia (co-supervised)
 position: BSc student
 github: 
-image: /images/team/joana-correia.jpeg
+image: /images/team/joana-correia.jpg
 alumni: true
 ---
 

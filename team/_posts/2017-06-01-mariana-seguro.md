@@ -3,7 +3,7 @@ layout: member
 title: Mariana Seguro (co-supervised)
 position: BSc student
 github: 
-image: /images/team/mariana-seguro.jpeg
+image: /images/team/mariana-seguro.jpg
 alumni: true
 ---
 

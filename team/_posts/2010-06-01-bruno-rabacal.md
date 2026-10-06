@@ -3,7 +3,7 @@ layout: member
 title: Bruno Rabaçal
 position: BSc student
 github: 
-image: /images/team/bruno-rabacal.jpeg
+image: /images/team/bruno-rabacal.jpg
 alumni: true
 ---
 

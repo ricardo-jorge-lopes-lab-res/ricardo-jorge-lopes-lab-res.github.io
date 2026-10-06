@@ -3,7 +3,7 @@ layout: member
 title: Odete Gonçalves
 position: BSc student
 github: 
-image: /images/team/odete-goncalves.jpeg
+image: /images/team/odete-goncalves.jpg
 alumni: true
 ---
 
