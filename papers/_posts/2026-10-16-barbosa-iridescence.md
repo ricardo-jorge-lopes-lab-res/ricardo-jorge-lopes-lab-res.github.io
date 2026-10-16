@@ -5,7 +5,7 @@ image: /images/papers/article-2026-barbosa-iridescence.png
 authors: Barbosa S, Bittner C, Arbore R, Araújo PM, Pereira P, Andrade P, Fekete C, Afonso R, Afonso S, Amorim MF, Marques CI, Nicolaï MPJ, Carita J, Brejcha J, Lopes RJ, Alves JM, Cruz F, Gómez-Garrido J, Zamarreño C, Gut M, Alioto T, Ali MA, Hilpert A, Hecht A, Spiecker E, Zubiri BA, Ito S, Wakamatsu K, Andersson L, Corbo JC, Vogel N, Carneiro M.
 year: 2026
 ref: Barbosa (2026) PNAS
-journal: “Proceedings of the National Academy of Sciences 123: e2614444123."
+journal: "Proceedings of the National Academy of Sciences 123:e2614444123."
 pdf:
 doi: 10.1073/pnas.2614444123
 github: 
