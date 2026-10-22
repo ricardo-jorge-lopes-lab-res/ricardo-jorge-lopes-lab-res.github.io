@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Tiago Guerreiro
-position: Mac student (co-supervised)
+position: MSc student (co-supervised)
 image: /images/team/tiago-guerreiro.jpg
 alumni: false
 ---
