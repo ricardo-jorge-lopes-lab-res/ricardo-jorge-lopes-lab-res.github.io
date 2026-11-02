@@ -3,7 +3,7 @@ layout: paper
 title: "Rethinking community-level avian-haemosporidian studies: gaps and frontiers"
 image: /images/papers/article-2026-luz-malaria-communities.png
 authors: Garcia-Longoria L, Jiménez-Gallardo L, Stanković D, Jones W, Theodosopoulos A, Elkjaer MM, Hernandez-Caballero I, Navarrete C, Dubiec A, Lopes RJ, Munclinger P, Dunn JC, Bodawatta KH.
-year: 2026w
+year: 2026
 ref: Garcia-Longoria (2026) Trends in Parasitology
 journal: "Trends in Parasitology."
 pdf:
