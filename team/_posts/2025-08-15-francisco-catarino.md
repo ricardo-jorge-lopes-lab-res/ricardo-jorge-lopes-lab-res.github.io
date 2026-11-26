@@ -3,7 +3,7 @@ layout: member
 title: Francisco Catarino
 position: PhD student
 github: 
-image: /images/team/francisco-catarino.jpg
+image: /images/team/francisco-catarino.png
 alumni: false
 ---
 
