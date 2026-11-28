@@ -6,8 +6,8 @@ authors: Garcia-Longoria L, Jiménez-Gallardo L, Stanković D, Jones W, Theodoso
 year: 2026
 ref: Garcia-Longoria (2026) Trends in Parasitology
 journal: "Trends in Parasitology."
-pdf:
-doi:
+pdf: /pdfs/papers/2027-garcia-longoria-malaria-community.pdf
+doi: doi.org/10.1016/j.pt.2026.11.004
 github: 
 ---
 
